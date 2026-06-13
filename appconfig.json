@@ -1,0 +1,18 @@
+{
+    "serviceInBay": {
+        "productionVersion": "1.0.0",
+        "internalVersion": "1.0.0"
+    },
+    "testDrive": {
+        "productionVersion": "1.0.0",
+        "internalVersion": "1.0.0"
+    },
+    "appraisals": {
+        "productionVersion": "1.0.0",
+        "internalVersion": "1.0.0"
+    },
+    "serviceDriveway": {
+        "productionVersion": "1.0.0",
+        "internalVersion": "1.0.0"
+    }
+}
